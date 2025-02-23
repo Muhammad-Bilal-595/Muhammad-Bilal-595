@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m Muhammad Bilal, a Front-End Developer and Co
 ## 📂 Projects
 
 ### Hero Sections
-Here are some hero sections I've designed:
+Here are some hero sections I've developed:
 
 1. [Hero Section 1](https://hero-sections.vercel.app/landingpage)
 2. [Hero Section 2](https://hero-sections.vercel.app/hero-2)
