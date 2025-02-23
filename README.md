@@ -45,7 +45,6 @@ We’ve founded a tech agency called [Devfic](https://devfic.com), and the **Com
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-web-dev) to discuss collaborations or opportunities!
 
 ## 🔗 Contact Me
-- **Email:** mbilal8448@gmail.com
 - **Website:** [Portfolio]([https://muhammadbilal.dev](https://portfolio-muhammad-bilals-projects-54614b4c.vercel.app/) 
 
 <!---
