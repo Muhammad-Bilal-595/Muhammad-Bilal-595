@@ -31,7 +31,7 @@ Inspired by JavaScript Mastery tutorials, here are some landing pages I’ve cre
 
 1. [Hoo Bank](https://hoo-bank-blush.vercel.app/)
 2. [Metasersus](https://metasersus.vercel.app/)
-3. [Fixed Website](https://fixed-website-i7w2.vercel.app/)
+3. [Travel App Website](https://fixed-website-i7w2.vercel.app/)
 4. [Nike Clone](https://nike-clone-indol-six.vercel.app/)
 
 ### Portfolio Websites
