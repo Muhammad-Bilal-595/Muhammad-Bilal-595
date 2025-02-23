@@ -13,14 +13,14 @@ Welcome to my GitHub profile! I’m Muhammad Bilal, a Front-End Developer and Co
 Here are a few projects I’ve worked on:
 1. **[Lime Code Landing Page](https://lime-code.vercel.app/)**: A sleek, responsive landing page built using Next.js, TypeScript, and TailwindCSS.
 2. **[Company Landing Page](https://landing-page-rosy-nu-60.vercel.app/)**: Another modern landing page built with Next.js and TailwindCSS.
-3. **[NCEAC Folder Submission Portal](https://github.com/muhammad-bilal/NCEAC-Portal)**: An automated web-based portal for submitting, managing, and reviewing course folders.
+
 
 ## 💼 Let's Connect
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-web-dev) to discuss collaborations or opportunities!
 
 ## 🔗 Contact Me
-- **Email:** bilal.webdev@example.com (Replace with your actual email)
-- **Website:** [muhammadbilal.dev](https://muhammadbilal.dev) (Optional, if you have one)
+- **Email:** mbilal8448@gmail.com
+- **Website:** [Portfolio]([https://muhammadbilal.dev](https://portfolio-muhammad-bilals-projects-54614b4c.vercel.app/) 
 
 <!---
 Muhammad-Bilal-595/Muhammad-Bilal-595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
